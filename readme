@@ -1,0 +1,59 @@
+
+# Simple Numbers Game
+
+Welcome to the Simple Numbers Game! This thrilling guessing adventure is built with TypeScript and Node.js, 
+designed to bring joy and excitement to players of all ages.
+
+## Installation
+
+You can install the Simple Numbers Game via npm by running the following commands:
+
+```bash
+npm i simple-numbers-game
+cd simple-numbers-game
+```
+
+or globally with:
+
+```bash
+npm install -g simple-numbers-game
+```
+
+## Description
+
+Experience the thrill of our Simple Numbers Game where players embark on a journey to guess numbers from 1 to 10. 
+Armed with hints and tips, challenge yourself or compete with friends to uncover the hidden digits. 
+With a straightforward gameplay mechanic, this game promises hours of fun and entertainment. 
+Immerse yourself in strategic guessing and suspenseful gameplay as you aim to emerge victorious.
+Whether played solo or in a group, the Simple Numbers Game guarantees to captivate and delight, 
+making it a must-have addition to your gaming collection.
+
+## Usage
+
+
+import { SimpleNumbersGame } from 'simple-numbers-game';
+
+// Create a new instance of the game
+const game = new SimpleNumbersGame();
+
+
+## Get Started
+
+Get ready to embark on an exciting guessing adventure with the Simple Numbers Game. Whether you're a seasoned gamer or just looking for some fun, this game is sure to keep you entertained for hours on end.
+
+## Contribution
+
+This project is authored by **Shehbaz Niazi**.
+
+We welcome contributions from the community! If you have any ideas, suggestions, or bug reports, 
+feel free to open an issue or submit a pull request on our GitHub repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shehbazniazi/)!
+
+Now the README file includes the contributor's name, Shehbaz Niazi. Adjustments can be made as per your preference.
